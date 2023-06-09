@@ -10,4 +10,4 @@ Parts come in the right orientation for printing, just drop them in your slicer 
 
 Supports should be disabled and everything should print fine, purpose designed supports are **included** in some of the models.
 
-<!-- 40% infill -->
+The default recommendation for infill is 40%, this is a Millenium wide recommendation, Casa parts are less structural then Milo ones, so you can probably can get away with less.
