@@ -5,3 +5,4 @@
 ## Guides
 
 - [Printing guide](./Printing%20Guide.md)
+- [Sourcing guide](./Sourcing%20Guide.md)
