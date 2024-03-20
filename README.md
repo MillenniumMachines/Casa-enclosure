@@ -1,25 +1,19 @@
 # Casa - The Millennium Machines Milo V1.5 Enclosure
 
-**DISCLAIMER** this is a WORK IN PROGRESS, building it right now probably won't go smoothly - and some things might be wrong or even missing completely. We're actively working on it.
+Casa is an enclosure for our desktop milling machine, the [Millennium Machines Milo V1.5](https://github.com/MillenniumMachines/Milo-v1.5)
 
-That being said -
+**Note:** Casa is currently in a pre-release stage. Docs are being written, CAD and STLs are being finalised, kits are being created. While we believe that everything here is correct you may discover some errors that we have missed.
 
-Welcome to the Casa repository. This is an enclosure for our desktop milling machine, the [Millennium Machines Milo V1.5](https://github.com/MillenniumMachines/Milo-v1.5)
-
-![casa the milo enclosure](images/casa.jpg)
-![casa without its side panel, showing the electronics bay](images/side_panel_off.jpg)
+**Images coming soon!**
 
 ## Features
 
-- Increases the safety of the operator
 - Keeps the mess contained
-- Reduces the sound profile of the machine
-- Easily accessible electronics bay
-- Illuminates the work area
-- (optional) tablet mount
-
-(and probably a lot of other cool stuff)
+- Built in chip collection
+- Reduces the noise of the machine
+- Easily accessible and configurable electronics bay
+- Integrated lighting (coming soon!)
 
 ## Getting started
 
-We'd recommend going through the [documentation](docs/index.md), this will help you get a grasp on the parts and work needed to build your Milo its' own little house.
+We'd recommend going through the [documentation](https://millenniummachines.github.io/docs/), this will help you get a grasp on the parts and work needed to build your Milo its' own little house.
